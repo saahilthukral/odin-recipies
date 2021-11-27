@@ -1,0 +1,56 @@
+* {
+    background-color: #359474;
+    box-sizing: border-box;
+}
+
+#heading{
+    background-color: cadetblue;
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+    font-size: 40px;
+}
+.dishes .webpages{
+    background-color: burlywood;
+    padding: 30px 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    list-style-type: none;
+}
+p{
+    text-align: center;
+    font-size: 40px;
+}
+
+/*For the pasta, burger, and salad html*/
+.Ingredients.lis, .Ingredients.lis2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.Ingredients.lis{
+    background-color: #6495ed;
+    font-weight: bold;
+
+}
+
+.Ingredients.lis2{
+    background-color:rgb(182, 67, 92);
+    color: #ffffff;
+}
+
+.steps{
+    background-color: #ff6347;
+    padding: 8px;
+    list-style-type: none;
+}
+
+.steps .sub-steps{
+    background-color: rgb(105, 149, 216);
+    margin-bottom: 8px;
+}
+
+.links{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
